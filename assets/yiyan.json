@@ -1,14 +1,16 @@
-{
-  "id": 1,
-  "uuid": "9818ecda-9cbf-4f2a-9af8-8136ef39cfcd",
-  "hitokoto": "[躺平]",
-  "type": "a",
-  "from": "表情",
-  "from_who": null,
-  "creator": "me",
-  "creator_uid": 0,
-  "reviewer": 0,
-  "commit_from": "web",
-  "created_at": "1468605909",
-  "length": 4
-}
+[
+  {
+    "id": 1,
+    "uuid": "9818ecda-9cbf-4f2a-9af8-8136ef39cfcd",
+    "hitokoto": "[躺平]",
+    "type": "a",
+    "from": "douyin",
+    "from_who": null,
+    "creator": "me",
+    "creator_uid": 0,
+    "reviewer": 0,
+    "commit_from": "web",
+    "created_at": "1468605909",
+    "length": 4
+  }
+]
